@@ -6,3 +6,4 @@ These are the notes for the summer school.
 ### Solving pDEs on manifolds
 
 add some random line
+hi
