@@ -1,3 +1,6 @@
 These are the notes for the summer school.
 "Solving PDEs on curved surfaces."
 
+### Introduction
+
+for introduction see intro.txt
